@@ -1,1 +1,3 @@
 # semantica
+Starter project for a framework that scales well. 
+More on the way...
